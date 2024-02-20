@@ -1,3 +1,6 @@
+[![pages-build-deployment](https://github.com/PemaGyalpo97/pemagyalpo97.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main&event=deployment_status)](https://github.com/PemaGyalpo97/pemagyalpo97.github.io/actions/workflows/pages/pages-build-deployment)
+
+
 GitHub Pages
 Websites for you and your projects.
 Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
